@@ -1,5 +1,5 @@
-torch>=2.0.0
-torchaudio>=2.0.0
+torch==2.3.0
+torchaudio==2.3.0
 ffmpeg-python
 soundfile
 omegaconf==2.0.6
@@ -7,7 +7,7 @@ requests
 pyworld
 torchcrepe
 praat-parselmouth>=0.4.2
-numpy<=1.23.5
+numpy==1.26.0
 fairseq==0.12.2
 faiss-cpu==1.7.3
 av
